@@ -3,7 +3,7 @@ Makes a couple small adjustments to Campanella 2's UI so you don't have to remem
 
 ## Features
 
-**Shows location of next scroll on level select map**
+**Shows location of next sage scroll on the level select map**
 
 If you get a scroll from a sage, the sage will tell you which level to go to next if you want to try for the cherry. But it's easy to forget this information between when you receive the scroll and when you get back to level select.
 
