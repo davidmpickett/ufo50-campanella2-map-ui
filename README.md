@@ -1,5 +1,5 @@
 # UFO 50 Mod - Campanella 2 Map UI improvements
-Makes a couple small adjustments to Campanella 2's UI so you don't have to remember things.
+Makes a couple small adjustments to Campanella 2's UI so you don't have to remember things. Compatible with UFO 50 v1.7.0.2.
 
 ## Features
 
