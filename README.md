@@ -1,6 +1,6 @@
 # UFO 50 Mod - Campanella 2 Map UI improvements
 - Makes a couple small adjustments to Campanella 2's UI so you don't have to remember things. 
-- Compatible with UFO 50 v1.7.2.2
+- Compatible with UFO 50 v1.7.6
 - Running a previous version of UFO 50? Check [the archive](/archive)
 
 ## Features
@@ -30,8 +30,17 @@ With the mod installed, an abbreviation of the current level is permanently disp
 ## How to install the mod
 Note: Installing untrusted mods is risky. Install at your own risk. 
 
+### Using GMLoader for UFO50 (preferred method)
+1. Download and install [GMLoader for UFO 50](https://github.com/phil-macrocheira/GMLoader-UFO50/releases)
+2. Download the [latest .zip file](https://github.com/davidmpickett/ufo50-campanella2-map-ui/releases) for the mod
+3. Unzip the mod and place the `Party UFO` folder inside the `my mods` folder of GMLoader
+4. Run `UFO 50 Mod Installer.exe`
+5. Check the mod(s) you wish to install.
+6. Click `Install Mods`
+
+### Using Delta Patcher (legacy versions only)
 1. Download and install [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
-2. Download the [.xdelta file](/CAMP2_MAP_UI_v1.7.2.2.xdelta) for the mod
+2. Download the .xdelta file from the [archive](/archive)
 3. Navigate to Game Files Directory - `C:\Program Files (x86)\Steam\steamapps\common\UFO 50` and find `data.win`
 4. You should make a copy of your `data.win` before installing the mod
 5. Run Delta Patcher, select `data.win` as the Original file and the `.xdelta` file as the Patch and click Apply patch.
